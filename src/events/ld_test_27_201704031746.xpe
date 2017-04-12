@@ -1,0 +1,96 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 17:46:10
+#sha1: 2de2f2
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5659,Stimulus,presented,0
+10853,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10853,design,logged,
+10853,Experiment,started
+10855,Stimulus,presented,2
+13370,Stimulus,presented,1
+13848,Keyboard,received,52,check
+15871,stdout,received,'start sound'
+15871,stdout,received,'2244066.857'
+15871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+16418,Keyboard,received,52,check
+17871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+18146,Keyboard,received,52,check
+19754,Keyboard,received,52,check
+19871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+21794,Keyboard,received,52,check
+21871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+23871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+23890,Keyboard,received,52,check
+25871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+25978,Keyboard,received,52,check
+27871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+27994,Keyboard,received,52,check
+29871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+29874,Keyboard,received,52,check
+31871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+31906,Keyboard,received,52,check
+33871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+33882,Keyboard,received,52,check
+35871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+35906,Keyboard,received,52,check
+37871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+37874,Keyboard,received,52,check
+39871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+39882,Keyboard,received,52,check
+41826,Keyboard,received,52,check
+41871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+43858,Keyboard,received,52,check
+43871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+45842,Keyboard,received,52,check
+45871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+47871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+47898,Keyboard,received,52,check
+49871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+49986,Keyboard,received,52,check
+51871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+51882,Keyboard,received,52,check
+53871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+53874,Keyboard,received,52,check
+55871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+55986,Keyboard,received,52,check
+57834,Keyboard,received,52,check
+57871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+59794,Keyboard,received,52,check
+59871,Stimulus,played,/tmp/expyriment_DHRjlf/freq675_dur50.0_73sRq8.wav
+61871,stdout,received,'Start without sound'
+61871,stdout,received,'2244112.85713'
+62026,Keyboard,received,52,check
+64370,Keyboard,received,52,check
+66410,Keyboard,received,52,check
+68370,Keyboard,received,52,check
+70346,Keyboard,received,52,check
+72274,Keyboard,received,52,check
+74274,Keyboard,received,52,check
+76194,Keyboard,received,52,check
+78202,Keyboard,received,52,check
+80026,Keyboard,received,52,check
+81970,Keyboard,received,52,check
+83874,Keyboard,received,52,check
+85826,Keyboard,received,52,check
+87810,Keyboard,received,52,check
+89978,Keyboard,received,52,check
+92018,Keyboard,received,52,check
+94090,Keyboard,received,52,check
+96106,Keyboard,received,52,check
+98162,Keyboard,received,52,check
+100090,Keyboard,received,52,check
+102066,Keyboard,received,52,check
+104018,Keyboard,received,52,check
+105810,Keyboard,received,52,check
+106871,stdout,received,'End no sound'
+106871,stdout,received,'2244157.85711'
+106871,Stimulus,presented,2
+131884,stdout,received,'2'
+131884,stdout,received,'[13848, 16418, 18146, 19754, 21794, 23890, 25978, 27994, 29874, 31906, 33882, 35906, 37874, 39882, 41826, 43858, 45842, 47898, 49986, 51882, 53874, 55986, 57834, 59794, 62026, 64370, 66410, 68370, 70346, 72274, 74274, 76194, 78202, 80026, 81970, 83874, 85826, 87810, 89978, 92018, 94090, 96106, 98162, 100090, 102066, 104018, 105810]'
+131884,Experiment,ended
+131889,Stimulus,presented,4

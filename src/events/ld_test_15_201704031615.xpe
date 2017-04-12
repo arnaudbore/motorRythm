@@ -1,0 +1,88 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:15:31
+#sha1: 793627
+#modules: config.py (fc6942)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5656,Stimulus,presented,0
+10842,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10843,design,logged,
+10843,Experiment,started
+10844,Stimulus,presented,2
+13358,Stimulus,presented,1
+13360,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+15361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+17361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+19361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+21361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+23361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+25361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+27361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+29361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+31361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+33361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+35361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+37361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+39361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+41361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+43361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+45361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+47361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+49361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+51361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+53361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+55361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+57361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+59361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+61361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+63361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+65361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+67361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+69361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+71361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+73361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+75361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+77361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+79361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+81361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+83361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+85361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+87361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+89361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+91361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+93361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+95361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+97361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+99361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+101361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+103361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+105361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+107361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+109361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+111361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+113361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+115361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+117361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+119361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+121361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+123361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+125361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+127361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+129361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+131361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+133361,Stimulus,played,/tmp/expyriment_5sj4iK/freq675_dur50.0_LZ1xqu.wav
+134432,stderr,received,'Traceback (most recent call last):'
+134433,stderr,received,'  File "ld_test.py", line 63, in <module>'
+134433,stderr,received,'    exp.clock.wait(2000)'
+134433,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 157, in wait'
+134433,stderr,received,'    while (self.time < start + (waiting_time - looptime)):'
+134433,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 75, in time'
+134433,stderr,received,'    return int((get_time() - self.__init_time) * 1000)'
+134433,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/types/newint.py", line 61, in __new__'
+134433,stderr,received,'    if not isint(val):'
+134433,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/utils/__init__.py", line 580, in isint'
+134436,stderr,received,'    return isinstance(obj, numbers.Integral)'
+134436,stderr,received,'KeyboardInterrupt'

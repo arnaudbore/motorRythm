@@ -1,0 +1,62 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 18:05:31
+#sha1: 5561dc
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5517,Stimulus,presented,0
+10734,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10735,design,logged,
+10735,Experiment,started
+10736,Stimulus,presented,2
+13251,Stimulus,presented,1
+15753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+17753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+19753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+21753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+23753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+25753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+27753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+29753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+31753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+33753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+35753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+37753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+39753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+41753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+43753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+45753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+47753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+49753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+51753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+53753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+55753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+57753,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+57753,Stimulus,presented,3
+58257,Stimulus,presented,1
+59774,Stimulus,played,/tmp/expyriment_5t7El4/freq675_dur50.0_EtSGML.wav
+59774,Stimulus,presented,3
+60293,Stimulus,presented,1
+74387,Experiment,paused
+74392,Stimulus,presented,5
+78660,stderr,received,'Traceback (most recent call last):'
+78660,stderr,received,'  File "ld_test.py", line 80, in <module>'
+78661,stderr,received,'    exp.clock.wait(halfBlockDuration*1000)'
+78661,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 143, in wait'
+78661,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+78661,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+78661,stderr,received,'    return self._wait_callback_function()'
+78662,stderr,received,'  File "ld_test.py", line 46, in readKeyboard'
+78662,stderr,received,'    key = exp.keyboard.check([49,50,51,52])'
+78662,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 199, in check'
+78662,stderr,received,'    Keyboard.process_control_keys(event)'
+78662,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 77, in process_control_keys'
+78662,stderr,received,'    pre_quit_function=quit_confirmed_function)'
+78663,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/control/_experiment_control.py", line 306, in end'
+78663,stderr,received,'    char = Keyboard().wait_char(["y", "n"], process_control_events=False)'
+78663,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 390, in wait_char'
+78663,stderr,received,'    time.sleep(0.0005)'
+78663,stderr,received,'KeyboardInterrupt'

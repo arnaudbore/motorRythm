@@ -1,0 +1,100 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 17:34:19
+#sha1: 2de2f2
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5700,Stimulus,presented,0
+10878,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10878,design,logged,
+10878,Experiment,started
+10879,Stimulus,presented,2
+13394,Stimulus,presented,1
+14055,Keyboard,received,52,check
+15896,stdout,received,'start sound'
+15896,stdout,received,'2243355.66245'
+15896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+16509,Keyboard,received,52,check
+17896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+18253,Keyboard,received,52,check
+19896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+20221,Keyboard,received,52,check
+21896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+22429,Keyboard,received,52,check
+23896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+23957,Keyboard,received,52,check
+25757,Keyboard,received,52,check
+25896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+27896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+28125,Keyboard,received,52,check
+29896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+30157,Keyboard,received,52,check
+31896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+31997,Keyboard,received,52,check
+33896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+34013,Keyboard,received,52,check
+35896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+36157,Keyboard,received,52,check
+37896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+38109,Keyboard,received,52,check
+39757,Keyboard,received,52,check
+39896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+41896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+41949,Keyboard,received,52,check
+42029,Keyboard,received,52,check
+43896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+44061,Keyboard,received,52,check
+45896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+46133,Keyboard,received,52,check
+47896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+48013,Keyboard,received,52,check
+49896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+49901,Keyboard,received,52,check
+51869,Keyboard,received,52,check
+51896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+53896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+53965,Keyboard,received,52,check
+55896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+55917,Keyboard,received,52,check
+57896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+57941,Keyboard,received,52,check
+59893,Keyboard,received,52,check
+59896,Stimulus,played,/tmp/expyriment_k4YRui/freq675_dur50.0_ra5hDG.wav
+61896,stdout,received,'Start without sound'
+61896,stdout,received,'2243401.66257'
+61949,Keyboard,received,52,check
+64021,Keyboard,received,52,check
+65765,Keyboard,received,52,check
+67453,Keyboard,received,52,check
+69181,Keyboard,received,52,check
+71085,Keyboard,received,52,check
+72845,Keyboard,received,52,check
+74581,Keyboard,received,52,check
+76149,Keyboard,received,52,check
+77733,Keyboard,received,52,check
+79405,Keyboard,received,52,check
+81213,Keyboard,received,52,check
+82869,Keyboard,received,52,check
+84605,Keyboard,received,52,check
+86365,Keyboard,received,52,check
+88181,Keyboard,received,52,check
+90101,Keyboard,received,52,check
+91869,Keyboard,received,52,check
+93733,Keyboard,received,52,check
+95597,Keyboard,received,52,check
+97381,Keyboard,received,52,check
+99213,Keyboard,received,52,check
+100813,Keyboard,received,52,check
+102589,Keyboard,received,52,check
+104133,Keyboard,received,52,check
+106333,Keyboard,received,52,check
+106896,stdout,received,'End no sound'
+106896,stdout,received,'2243446.66255'
+106896,Stimulus,presented,2
+131909,stdout,received,'2'
+131909,stdout,received,'[14056, 16509, 18253, 20221, 22429, 23957, 25757, 28125, 30157, 31997, 34013, 36157, 38109, 39757, 41949, 42029, 44061, 46133, 48013, 49901, 51869, 53965, 55917, 57941, 59893, 61949, 64021, 65765, 67453, 69181, 71085, 72845, 74581, 76149, 77733, 79405, 81213, 82869, 84605, 86365, 88181, 90101, 91869, 93733, 95597, 97381, 99213, 100813, 102589, 104133, 106333]'
+131909,Experiment,ended
+131916,Stimulus,presented,4

@@ -1,0 +1,19 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:09:33
+#sha1: 0a9357
+#modules: config.py (454b28)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5578,Stimulus,presented,0
+10765,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10765,design,logged,
+10765,Experiment,started
+10766,Stimulus,presented,2
+13280,Stimulus,presented,1
+13283,stderr,received,'Traceback (most recent call last):'
+13283,stderr,received,'  File "ld_test.py", line 60, in <module>'
+13283,stderr,received,'    while nbBlock <= nbBlocksMax:'
+13283,stderr,received,"NameError: name 'nbBlock' is not defined"

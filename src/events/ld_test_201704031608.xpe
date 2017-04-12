@@ -1,0 +1,12 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:08:55
+#sha1: 0a9357
+#modules: config.py (91e045)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5509,Stimulus,presented,0
+5526,stderr,received,'Traceback (most recent call last):'
+5526,stderr,received,'  File "ld_test.py", line 31, in <module>'
+5527,stderr,received,'    greenFixCross = stimuli.FixCross(colour=regularCrossColor, size=restCrossSize, line_width=restCrossThickness)'
+5527,stderr,received,"NameError: name 'regularCrossColor' is not defined"

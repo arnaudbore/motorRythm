@@ -1,0 +1,98 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 17:27:07
+#sha1: 2de2f2
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5627,Stimulus,presented,0
+10816,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10816,design,logged,
+10816,Experiment,started
+10818,Stimulus,presented,2
+13333,Stimulus,presented,1
+15834,stdout,received,'start sound'
+15834,stdout,received,'2242924.08522'
+15834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+15927,Keyboard,received,52,check
+17834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+18312,Keyboard,received,52,check
+19834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+20176,Keyboard,received,52,check
+21834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+22128,Keyboard,received,52,check
+23834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+24136,Keyboard,received,52,check
+25834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+26232,Keyboard,received,52,check
+27834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+28176,Keyboard,received,52,check
+29834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+30112,Keyboard,received,52,check
+31834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+32120,Keyboard,received,52,check
+33834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+34104,Keyboard,received,52,check
+35834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+36120,Keyboard,received,52,check
+37834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+38112,Keyboard,received,52,check
+39834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+40112,Keyboard,received,52,check
+41834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+42144,Keyboard,received,52,check
+43834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+44120,Keyboard,received,52,check
+45834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+46080,Keyboard,received,52,check
+47834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+48064,Keyboard,received,52,check
+49834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+50128,Keyboard,received,52,check
+51834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+52224,Keyboard,received,52,check
+53834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+54128,Keyboard,received,52,check
+55834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+56184,Keyboard,received,52,check
+57834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+58056,Keyboard,received,52,check
+59834,Stimulus,played,/tmp/expyriment_2IGDVT/freq675_dur50.0_iSmvvg.wav
+60064,Keyboard,received,52,check
+61834,stdout,received,'Start without sound'
+61834,stdout,received,'2242970.08533'
+62104,Keyboard,received,52,check
+64040,Keyboard,received,52,check
+65752,Keyboard,received,52,check
+67504,Keyboard,received,52,check
+69240,Keyboard,received,52,check
+71040,Keyboard,received,52,check
+72784,Keyboard,received,52,check
+74536,Keyboard,received,52,check
+76320,Keyboard,received,52,check
+78152,Keyboard,received,52,check
+79920,Keyboard,received,52,check
+81720,Keyboard,received,52,check
+83400,Keyboard,received,52,check
+85128,Keyboard,received,52,check
+87032,Keyboard,received,52,check
+88656,Keyboard,received,52,check
+90408,Keyboard,received,52,check
+92200,Keyboard,received,52,check
+94024,Keyboard,received,52,check
+95688,Keyboard,received,52,check
+97552,Keyboard,received,52,check
+99464,Keyboard,received,52,check
+101352,Keyboard,received,52,check
+103208,Keyboard,received,52,check
+105096,Keyboard,received,52,check
+106834,stdout,received,'End no sound'
+106834,stdout,received,'2243015.08533'
+106835,Stimulus,presented,2
+106912,Keyboard,received,52,check
+131847,stdout,received,'2'
+131847,stdout,received,'[15927, 18312, 20176, 22128, 24136, 26232, 28176, 30112, 32120, 34104, 36120, 38112, 40112, 42144, 44120, 46080, 48064, 50128, 52224, 54128, 56184, 58056, 60064, 62104, 64040, 65752, 67504, 69240, 71040, 72784, 74536, 76320, 78152, 79920, 81720, 83400, 85128, 87032, 88656, 90408, 92200, 94024, 95688, 97552, 99464, 101352, 103208, 105096, 106912]'
+131847,Experiment,ended
+131851,Stimulus,presented,4

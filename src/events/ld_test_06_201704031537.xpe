@@ -1,0 +1,49 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 15:37:38
+#sha1: 2d1bfb
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+10927,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10927,design,logged,
+10928,Experiment,started
+10929,Stimulus,presented,0
+10943,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+10943,stdout,received,'10943'
+12944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+12944,stdout,received,'12944'
+14944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+14944,stdout,received,'14944'
+16944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+16944,stdout,received,'16944'
+18944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+18944,stdout,received,'18944'
+20944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+20944,stdout,received,'20944'
+22944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+22944,stdout,received,'22944'
+24944,Stimulus,played,/tmp/expyriment_n8lVNp/freq675_dur50.0_TN1KIV.wav
+24944,stdout,received,'24944'
+26714,Experiment,paused
+26718,Stimulus,presented,2
+36708,stderr,received,'Traceback (most recent call last):'
+36708,stderr,received,'  File "ld_test.py", line 52, in <module>'
+36708,stderr,received,'    exp.clock.wait(2000)'
+36708,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 143, in wait'
+36708,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+36708,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+36708,stderr,received,'    return self._wait_callback_function()'
+36709,stderr,received,'  File "ld_test.py", line 38, in my_callback'
+36709,stderr,received,'    trigger.check([49,50,51,52])'
+36709,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 199, in check'
+36709,stderr,received,'    Keyboard.process_control_keys(event)'
+36709,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 77, in process_control_keys'
+36709,stderr,received,'    pre_quit_function=quit_confirmed_function)'
+36709,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/control/_experiment_control.py", line 306, in end'
+36709,stderr,received,'    char = Keyboard().wait_char(["y", "n"], process_control_events=False)'
+36710,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 390, in wait_char'
+36710,stderr,received,'    time.sleep(0.0005)'
+36710,stderr,received,'KeyboardInterrupt'

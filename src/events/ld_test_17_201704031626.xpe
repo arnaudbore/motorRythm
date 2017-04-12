@@ -1,0 +1,60 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:26:41
+#sha1: 3cfc64
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5476,Stimulus,presented,0
+10660,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10660,design,logged,
+10660,Experiment,started
+10661,Stimulus,presented,2
+13177,Stimulus,presented,1
+13178,stdout,received,'2239295.5358'
+13179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+15179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+17179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+19179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+21179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+23179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+25179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+27179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+29179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+31179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+33179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+35179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+37179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+39179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+41179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+43179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+45179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+47179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+49179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+51179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+53179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+55179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+57179,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+59179,stdout,received,'2239341.53595'
+59224,stdout,received,'2239341.58095'
+59224,Stimulus,presented,2
+84237,stdout,received,'1'
+84237,stdout,received,'2239366.59408'
+84237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+86237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+88237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+90237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+92237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+94237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+96237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+98237,Stimulus,played,/tmp/expyriment_WQLsc2/freq675_dur50.0_vxFkb1.wav
+98834,stderr,received,'Traceback (most recent call last):'
+98834,stderr,received,'  File "ld_test.py", line 63, in <module>'
+98834,stderr,received,'    exp.clock.wait(2000)'
+98834,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 157, in wait'
+98834,stderr,received,'    while (self.time < start + (waiting_time - looptime)):'
+98834,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/types/newint.py", line 101, in __add__'
+98834,stderr,received,'    return newint(value)'
+98835,stderr,received,'KeyboardInterrupt'

@@ -1,0 +1,50 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 13:19:27
+#sha1: 166c25
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+10859,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10859,design,logged,
+10859,Experiment,started
+10859,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+12860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+14860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+15074,Keyboard,received,52,check
+16860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+16996,Keyboard,received,52,check
+18860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+19084,Keyboard,received,52,check
+20860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+21108,Keyboard,received,52,check
+22860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+23004,Keyboard,received,52,check
+24860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+24964,Keyboard,received,52,check
+26860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+26924,Keyboard,received,52,check
+28860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+29036,Keyboard,received,52,check
+30740,Keyboard,received,52,check
+30860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+32860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+32868,Keyboard,received,52,check
+34860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+35060,Keyboard,received,52,check
+36860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+38860,Stimulus,played,/tmp/expyriment_1y0EJi/freq675_dur50.0_P_Pl5O.wav
+39025,stderr,received,'Traceback (most recent call last):'
+39025,stderr,received,'  File "ld_test.py", line 60, in <module>'
+39025,stderr,received,'    exp.clock.wait(2000)'
+39026,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 143, in wait'
+39028,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+39029,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+39029,stderr,received,'    return self._wait_callback_function()'
+39029,stderr,received,'  File "ld_test.py", line 51, in my_callback'
+39030,stderr,received,'    trigger.check([49,50,51,52])'
+39030,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 196, in check'
+39030,stderr,received,'    pygame.event.clear(pygame.KEYUP)'
+39030,stderr,received,'KeyboardInterrupt'

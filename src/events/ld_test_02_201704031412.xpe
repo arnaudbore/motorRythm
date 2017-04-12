@@ -1,0 +1,165 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 14:12:03
+#sha1: 166c25
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+10737,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10737,design,logged,
+10737,Experiment,started
+10737,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+12738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+14738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+16738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+18738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+20738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+22738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+24738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+26738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+28738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+30738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+32738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+34738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+36738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+38738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+40738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+42738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+44738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+46738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+48738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+50738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+52738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+54738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+56738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+58738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+60738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+62738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+64738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+66738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+67161,Keyboard,received,52,check
+67280,Keyboard,received,51,check
+67424,Keyboard,received,50,check
+67768,Keyboard,received,52,check
+67880,Keyboard,received,51,check
+68048,Keyboard,received,50,check
+68072,Keyboard,received,49,check
+68296,Keyboard,received,52,check
+68408,Keyboard,received,51,check
+68568,Keyboard,received,49,check
+68576,Keyboard,received,50,check
+68738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+68872,Keyboard,received,52,check
+68928,Keyboard,received,51,check
+69064,Keyboard,received,50,check
+69072,Keyboard,received,49,check
+69296,Keyboard,received,52,check
+69408,Keyboard,received,51,check
+69456,Keyboard,received,50,check
+69608,Keyboard,received,52,check
+69728,Keyboard,received,50,check
+69920,Keyboard,received,51,check
+70048,Keyboard,received,52,check
+70200,Keyboard,received,50,check
+70552,Keyboard,received,52,check
+70656,Keyboard,received,52,check
+70738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+70752,Keyboard,received,52,check
+70912,Keyboard,received,52,check
+71080,Keyboard,received,52,check
+71144,Keyboard,received,52,check
+71248,Keyboard,received,51,check
+71424,Keyboard,received,51,check
+71832,Keyboard,received,51,check
+72008,Keyboard,received,51,check
+72216,Keyboard,received,52,check
+72424,Keyboard,received,52,check
+72568,Keyboard,received,52,check
+72738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+72744,Keyboard,received,52,check
+72936,Keyboard,received,52,check
+73160,Keyboard,received,51,check
+73328,Keyboard,received,51,check
+73512,Keyboard,received,50,check
+73720,Keyboard,received,50,check
+73880,Keyboard,received,52,check
+74088,Keyboard,received,52,check
+74472,Keyboard,received,52,check
+74664,Keyboard,received,51,check
+74738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+74848,Keyboard,received,50,check
+75088,Keyboard,received,52,check
+75304,Keyboard,received,50,check
+75488,Keyboard,received,51,check
+75680,Keyboard,received,52,check
+75888,Keyboard,received,52,check
+76104,Keyboard,received,51,check
+76304,Keyboard,received,50,check
+76584,Keyboard,received,50,check
+76738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+76928,Keyboard,received,50,check
+77128,Keyboard,received,52,check
+77312,Keyboard,received,51,check
+77496,Keyboard,received,51,check
+77704,Keyboard,received,51,check
+77904,Keyboard,received,52,check
+78096,Keyboard,received,50,check
+78280,Keyboard,received,51,check
+78480,Keyboard,received,52,check
+78680,Keyboard,received,52,check
+78738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+78880,Keyboard,received,50,check
+79088,Keyboard,received,51,check
+79288,Keyboard,received,52,check
+79488,Keyboard,received,52,check
+79696,Keyboard,received,51,check
+79904,Keyboard,received,50,check
+80120,Keyboard,received,52,check
+80280,Keyboard,received,50,check
+80432,Keyboard,received,51,check
+80552,Keyboard,received,52,check
+80672,Keyboard,received,50,check
+80738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+80792,Keyboard,received,52,check
+80928,Keyboard,received,51,check
+81064,Keyboard,received,50,check
+81280,Keyboard,received,51,check
+81464,Keyboard,received,50,check
+81632,Keyboard,received,50,check
+82738,Stimulus,played,/tmp/expyriment_TeEJ7o/freq675_dur50.0_KHG7ZO.wav
+83929,Experiment,paused
+83963,Stimulus,presented,1
+90570,Experiment,paused
+90577,Stimulus,presented,1
+96010,stderr,received,'Traceback (most recent call last):'
+96011,stderr,received,'  File "ld_test.py", line 60, in <module>'
+96011,stderr,received,'    exp.clock.wait(2000)'
+96011,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 143, in wait'
+96014,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+96014,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+96015,stderr,received,'    return self._wait_callback_function()'
+96016,stderr,received,'  File "ld_test.py", line 51, in my_callback'
+96016,stderr,received,'    trigger.check([49,50,51,52])'
+96016,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 199, in check'
+96016,stderr,received,'    Keyboard.process_control_keys(event)'
+96017,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 77, in process_control_keys'
+96017,stderr,received,'    pre_quit_function=quit_confirmed_function)'
+96017,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/control/_experiment_control.py", line 306, in end'
+96017,stderr,received,'    char = Keyboard().wait_char(["y", "n"], process_control_events=False)'
+96018,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 370, in wait_char'
+96018,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+96018,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+96018,stderr,received,'    return self._wait_callback_function()'
+96019,stderr,received,'  File "ld_test.py", line 51, in my_callback'
+96019,stderr,received,'    trigger.check([49,50,51,52])'
+96019,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 199, in check'
+96019,stderr,received,'    Keyboard.process_control_keys(event)'
+96019,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 77, in process_control_keys'
+96019,stderr,received,'    pre_quit_function=quit_confirmed_function)'
+96020,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/control/_experiment_control.py", line 306, in end'
+96020,stderr,received,'    char = Keyboard().wait_char(["y", "n"], process_control_events=False)'
+96020,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 390, in wait_char'
+96020,stderr,received,'    time.sleep(0.0005)'
+96020,stderr,received,'KeyboardInterrupt'

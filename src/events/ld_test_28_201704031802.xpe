@@ -1,0 +1,62 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 18:02:41
+#sha1: b52063
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5800,Stimulus,presented,0
+11008,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+11008,design,logged,
+11008,Experiment,started
+11009,Stimulus,presented,2
+13524,Stimulus,presented,1
+16026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+18026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+20026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+22026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+24026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+26026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+28026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+30026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+32026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+34026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+36026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+38026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+40026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+42026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+44026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+46026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+48026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+50026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+52026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+54026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+56026,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+58026,Stimulus,presented,3
+58031,Stimulus,presented,1
+58047,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+60047,Stimulus,presented,3
+60066,Stimulus,presented,1
+60082,Stimulus,played,/tmp/expyriment_R_AHVk/freq675_dur50.0_wvJD4X.wav
+69203,Experiment,paused
+69237,Stimulus,presented,5
+72034,stderr,received,'Traceback (most recent call last):'
+72034,stderr,received,'  File "ld_test.py", line 76, in <module>'
+72034,stderr,received,'    exp.clock.wait(halfBlockDuration*1000)'
+72034,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 143, in wait'
+72037,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+72038,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+72038,stderr,received,'    return self._wait_callback_function()'
+72039,stderr,received,'  File "ld_test.py", line 46, in readKeyboard'
+72039,stderr,received,'    key = exp.keyboard.check([49,50,51,52])'
+72039,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 199, in check'
+72039,stderr,received,'    Keyboard.process_control_keys(event)'
+72040,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 77, in process_control_keys'
+72040,stderr,received,'    pre_quit_function=quit_confirmed_function)'
+72040,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/control/_experiment_control.py", line 306, in end'
+72040,stderr,received,'    char = Keyboard().wait_char(["y", "n"], process_control_events=False)'
+72040,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 390, in wait_char'
+72041,stderr,received,'    time.sleep(0.0005)'
+72041,stderr,received,'KeyboardInterrupt'

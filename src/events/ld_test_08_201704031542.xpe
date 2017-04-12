@@ -1,0 +1,32 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 15:42:50
+#sha1: 514e65
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+10887,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10888,design,logged,
+10888,Experiment,started
+10889,Stimulus,presented,1
+10923,Stimulus,presented,0
+10937,Stimulus,played,/tmp/expyriment_wEovwA/freq675_dur50.0_a83v41.wav
+10937,stdout,received,'10937'
+12937,Stimulus,played,/tmp/expyriment_wEovwA/freq675_dur50.0_a83v41.wav
+12937,stdout,received,'12937'
+14937,Stimulus,played,/tmp/expyriment_wEovwA/freq675_dur50.0_a83v41.wav
+14937,stdout,received,'14937'
+16937,Stimulus,played,/tmp/expyriment_wEovwA/freq675_dur50.0_a83v41.wav
+16937,stdout,received,'16937'
+17507,stderr,received,'Traceback (most recent call last):'
+17507,stderr,received,'  File "ld_test.py", line 55, in <module>'
+17507,stderr,received,'    exp.clock.wait(2000)'
+17507,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 137, in wait'
+17507,stderr,received,'    while (self.time < start + waiting_time):'
+17507,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/types/newint.py", line 101, in __add__'
+17510,stderr,received,'    return newint(value)'
+17511,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/types/newint.py", line 76, in __new__'
+17511,stderr,received,'    return super(newint, cls).__new__(cls, val)'
+17511,stderr,received,'KeyboardInterrupt'

@@ -1,0 +1,35 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 15:38:41
+#sha1: 0827ab
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+11008,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+11008,design,logged,
+11008,Experiment,started
+11010,Stimulus,presented,0
+11024,Stimulus,played,/tmp/expyriment_07hUtD/freq675_dur50.0_hf2PFU.wav
+11024,stdout,received,'11024'
+13025,Stimulus,played,/tmp/expyriment_07hUtD/freq675_dur50.0_hf2PFU.wav
+13025,stdout,received,'13025'
+15025,Stimulus,played,/tmp/expyriment_07hUtD/freq675_dur50.0_hf2PFU.wav
+15025,stdout,received,'15025'
+17025,Stimulus,played,/tmp/expyriment_07hUtD/freq675_dur50.0_hf2PFU.wav
+17025,stdout,received,'17025'
+19025,Stimulus,played,/tmp/expyriment_07hUtD/freq675_dur50.0_hf2PFU.wav
+19025,stdout,received,'19025'
+20532,stderr,received,'Traceback (most recent call last):'
+20532,stderr,received,'  File "ld_test.py", line 52, in <module>'
+20532,stderr,received,'    exp.clock.wait(2000)'
+20532,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 143, in wait'
+20532,stderr,received,'    rtn_callback = _internals.active_exp._execute_wait_callback()'
+20533,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/design/_structure.py", line 1061, in _execute_wait_callback'
+20533,stderr,received,'    return self._wait_callback_function()'
+20533,stderr,received,'  File "ld_test.py", line 38, in my_callback'
+20533,stderr,received,'    trigger.check([49,50,51,52])'
+20533,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/io/_keyboard.py", line 197, in check'
+20533,stderr,received,'    for event in pygame.event.get(pygame.KEYDOWN):'
+20533,stderr,received,'KeyboardInterrupt'

@@ -1,0 +1,51 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 14:58:16
+#sha1: 166c25
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+10887,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10888,design,logged,
+10888,Experiment,started
+10888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+12888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+14888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+16888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+18888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+20888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+22888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+24888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+26888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+28888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+30888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+32888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+34888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+36888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+38888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+40888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+42888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+44888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+46888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+48888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+50888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+52888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+54888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+56888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+58888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+60888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+62888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+64888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+66888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+68888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+70888,Stimulus,played,/tmp/expyriment_75DBUB/freq675_dur50.0__9N2bn.wav
+72317,stderr,received,'Traceback (most recent call last):'
+72317,stderr,received,'  File "ld_test.py", line 60, in <module>'
+72317,stderr,received,'    exp.clock.wait(2000)'
+72317,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 151, in wait'
+72317,stderr,received,'    _internals.pump_pygame_events()'
+72317,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/_internals.py", line 78, in pump_pygame_events'
+72320,stderr,received,'    pygame.event.pump()'
+72320,stderr,received,'KeyboardInterrupt'

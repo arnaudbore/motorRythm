@@ -1,0 +1,64 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:19:41
+#sha1: cfdeb4
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5647,Stimulus,presented,0
+10830,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10830,design,logged,
+10830,Experiment,started
+10831,Stimulus,presented,2
+13346,Stimulus,presented,1
+13348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+15348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+17348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+19348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+21348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+23348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+25348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+27348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+29348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+31348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+33348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+35348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+37348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+39348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+41348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+43348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+45348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+47348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+49348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+51348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+53348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+55348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+57348,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+59393,Stimulus,presented,2
+84403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+86403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+88403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+90403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+92403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+94403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+96403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+98403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+100403,Stimulus,played,/tmp/expyriment_YkL9Zu/freq675_dur50.0_dmVWX1.wav
+102130,stderr,received,'Traceback (most recent call last):'
+102130,stderr,received,'  File "ld_test.py", line 63, in <module>'
+102130,stderr,received,'    exp.clock.wait(2000)'
+102130,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 157, in wait'
+102130,stderr,received,'    while (self.time < start + (waiting_time - looptime)):'
+102130,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 75, in time'
+102130,stderr,received,'    return int((get_time() - self.__init_time) * 1000)'
+102130,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/types/newint.py", line 61, in __new__'
+102130,stderr,received,'    if not isint(val):'
+102131,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/future/utils/__init__.py", line 580, in isint'
+102131,stderr,received,'    return isinstance(obj, numbers.Integral)'
+102131,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/abc.py", line 132, in __instancecheck__'
+102134,stderr,received,'    if subclass is not None and subclass in cls._abc_cache:'
+102134,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/_weakrefset.py", line 72, in __contains__'
+102134,stderr,received,'    wr = ref(item)'
+102134,stderr,received,'KeyboardInterrupt'

@@ -1,0 +1,36 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Tue Apr 04 2017 10:59:33
+#sha1: 6dbe4b
+#modules: 
+#display: size=(3000, 1920), window_mode=False, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+15093,design,log,
+#design: #exp: line-bisection
+#design: block_cnt,block_id,trial_cnt,trial_id
+15093,design,logged,
+15093,Experiment,started
+15190,Stimulus,presented,8
+17253,Mouse,received,0-False,wait_event
+17357,Stimulus,presented,10
+17744,Mouse,received,0-False,wait_event
+17851,Stimulus,presented,12
+18721,Mouse,received,0-False,wait_event
+18822,Stimulus,presented,14
+19081,Mouse,received,0-False,wait_event
+19167,Stimulus,presented,16
+19369,Mouse,received,0-False,wait_event
+19475,Stimulus,presented,18
+20049,Mouse,received,0-False,wait_event
+20139,Stimulus,presented,20
+20393,Mouse,received,0-False,wait_event
+20499,Stimulus,presented,22
+20791,Mouse,received,0-False,wait_event
+20896,Stimulus,presented,24
+21775,Mouse,received,0-False,wait_event
+21880,Stimulus,presented,26
+22205,Experiment,paused
+22209,Stimulus,presented,28
+23238,Keyboard,received,y,wait_char
+23238,Experiment,ended
+23245,Stimulus,presented,28

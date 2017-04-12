@@ -1,0 +1,26 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 15:44:54
+#sha1: 695bd9
+#modules: config.py (677a6e)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5450,Stimulus,presented,0
+10633,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10633,design,logged,
+10633,Experiment,started
+10635,Stimulus,presented,1
+10650,Stimulus,played,/tmp/expyriment_HnMcFX/freq675_dur50.0_ZBeZ3F.wav
+10650,stdout,received,'10650'
+12650,Stimulus,played,/tmp/expyriment_HnMcFX/freq675_dur50.0_ZBeZ3F.wav
+12650,stdout,received,'12650'
+14650,Stimulus,played,/tmp/expyriment_HnMcFX/freq675_dur50.0_ZBeZ3F.wav
+14650,stdout,received,'14650'
+16419,stderr,received,'Traceback (most recent call last):'
+16419,stderr,received,'  File "ld_test.py", line 56, in <module>'
+16419,stderr,received,'    exp.clock.wait(2000)'
+16419,stderr,received,'  File "/home/borear/anaconda2/envs/envBasic/lib/python2.7/site-packages/expyriment/misc/_clock.py", line 138, in wait'
+16419,stderr,received,'    if isinstance(callback_function, FunctionType):'
+16419,stderr,received,'KeyboardInterrupt'

@@ -1,0 +1,17 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:05:56
+#sha1: 07451a
+#modules: config.py (627912)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5811,Stimulus,presented,0
+10992,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10993,design,logged,
+10993,Experiment,started
+10993,stderr,received,'Traceback (most recent call last):'
+10993,stderr,received,'  File "ld_test.py", line 54, in <module>'
+10993,stderr,received,'    redFixCross.present(bs)'
+10994,stderr,received,"NameError: name 'redFixCross' is not defined"

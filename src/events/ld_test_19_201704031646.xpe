@@ -1,0 +1,49 @@
+#Expyriment 0.9.0 (Python 2.7.12), .xpe-file, coding: UTF-8
+#date: Mon Apr 03 2017 16:46:00
+#sha1: 502424
+#modules: config.py (ed2db7)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Linux', 'borear-desktop', '3.13.0-24-generic', '#47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+5628,Stimulus,presented,0
+10811,design,log,
+#design: #exp: test
+#design: block_cnt,block_id,trial_cnt,trial_id
+10811,design,logged,
+10811,Experiment,started
+10813,Stimulus,presented,2
+13328,Stimulus,presented,1
+13330,stdout,received,'start sound'
+13330,stdout,received,'2240454.03848'
+13330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+15330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+17330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+19330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+21330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+23330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+25330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+27330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+29330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+31330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+33330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+35330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+37330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+39330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+41330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+43330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+45330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+47330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+49330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+51330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+53330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+55330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+57330,Stimulus,played,/tmp/expyriment_R4sVoX/freq675_dur50.0_MUo03U.wav
+59330,stdout,received,'Start without sound'
+59330,stdout,received,'2240500.03864'
+104330,stdout,received,'End no sound'
+104330,stdout,received,'2240545.03864'
+104330,Stimulus,presented,2
+129340,stdout,received,'2'
+129340,stdout,received,'[]'
+129340,Experiment,ended
+129344,Stimulus,presented,4
